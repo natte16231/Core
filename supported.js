@@ -1,5 +1,5 @@
 idk = value.createInteger("Integer", 5, 0, 10);
-lol = value.createText("ok", "wtf");
+lol = value.createText("ok", "lol");
 
 module = {
     name: "Example",
